@@ -22,7 +22,7 @@
       "dev-master": "4.0.x-dev"
     },
     "typo3/cms": {
-      "extension-key": "backup-restore"
+      "extension-key": "backup_restore"
     }
   }
 }
